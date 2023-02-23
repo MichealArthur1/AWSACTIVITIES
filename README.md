@@ -1,0 +1,2 @@
+# AWSACTIVITIES
+Python practice
